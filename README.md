@@ -52,7 +52,8 @@ python main_app.py
 - **MySQL** (for database management)
   
 - **File Structure**
-                 ├── main_app.py          # Main application file
+- 
+                ├── main_app.py          # Main application file
 
                 ├── train_model.py       # Script to train the face recognition model
 
