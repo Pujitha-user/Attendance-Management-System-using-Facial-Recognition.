@@ -53,9 +53,13 @@ python main_app.py
   
 - **File Structure**
 ├── main_app.py          # Main application file
+
 ├── train_model.py       # Script to train the face recognition model
+
 ├── Attendance/          # Stores attendance CSV files
+
 ├── TrainingImage/       # Stores captured images for training
+
 └── haarcascade_frontalface_default.xml  # Pre-trained Haar Cascade for face detection
 
 
@@ -80,5 +84,3 @@ This system addresses the limitations of traditional attendance methods by ensur
 - **Efficiency**: Saves time and automates routine tasks.
 
 
-
-This README section summarizes the key aspects of the project and is displayed at the top of the main README file for quick insights.
