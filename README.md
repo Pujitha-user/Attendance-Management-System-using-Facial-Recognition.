@@ -52,15 +52,15 @@ python main_app.py
 - **MySQL** (for database management)
   
 - **File Structure**
-├── main_app.py          # Main application file
+                ├── main_app.py          # Main application file
 
-├── train_model.py       # Script to train the face recognition model
+                ├── train_model.py       # Script to train the face recognition model
 
-├── Attendance/          # Stores attendance CSV files
+                ├── Attendance/          # Stores attendance CSV files
 
-├── TrainingImage/       # Stores captured images for training
+                ├── TrainingImage/       # Stores captured images for training
 
-└── haarcascade_frontalface_default.xml  # Pre-trained Haar Cascade for face detection
+                └── haarcascade_frontalface_default.xml  # Pre-trained Haar Cascade for face detection
 
 
 **How It Works**
@@ -83,4 +83,4 @@ This system addresses the limitations of traditional attendance methods by ensur
 - **Proxy Prevention**: Reduces fraudulent attendance marking.
 - **Efficiency**: Saves time and automates routine tasks.
 
-
+For any questions or issues, feel free to contact pujitha.puja.reddy@gmail.com
